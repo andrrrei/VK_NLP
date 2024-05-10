@@ -4,4 +4,4 @@ The course is called "Modern NLP. Large Language Models" and is aimed at studyin
 
 In each folder you can find jupyter notebook with homework and a lecture which it based on.
 
-The course also involves writing a [!https://github.com/andrrrei/mail_ru_llm_lebedev_andrei](telegram bot) with LM implemented.
+The course also involves writing a [telegram bot](https://github.com/andrrrei/mail_ru_llm_lebedev_andrei) with LM implemented.
